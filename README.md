@@ -44,3 +44,27 @@ Git branch -m [old-name] [new-name]
 ```
 Git branch -a
 ```
+# Clone repo locally
+```	
+Git clone
+```
+# Track files
+```
+Git add
+```
+# Save your files in git
+```
+Git commit
+```
+# push the changed files to remote repo
+```
+Git push
+```
+pull changes from remote repo to local repo
+```
+Git pull
+```
+# Fetch updates without pulling
+```
+Git fetch [Remote-name]
+```
