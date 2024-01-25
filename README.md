@@ -1,8 +1,7 @@
-# Hi Welkom
+# Welcome to my GitHub Page
 
-Hi there, 
+On this GitHub page, I will be sharing my journey towards my GitHub Foundation exam.
 
-Welcome to my GitHub Page. On this GitHub page, I will be posting things related to my preparations for the GitHub Foundation exam.
 
 Lets start with some Basic Git commands on the welcome page.
 
